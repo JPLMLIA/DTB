@@ -1,5 +1,6 @@
 This source-code enables developers to use our algorithms for measuring uncertainty quantification in machine learning models. 
-This code was used in our work that was published here: [Decision Theoretic Bootstrapping](https://www.dl.begellhouse.com/journals/52034eb04b657aea,20894a8061d92d69,1af5a8c41033669e.html)
+This code was used in our work that was published in International Journal for Uncertainty Quantification: 
+[Decision Theoretic Bootstrapping](https://www.dl.begellhouse.com/journals/52034eb04b657aea,20894a8061d92d69,1af5a8c41033669e.html). You can read our paper for free on arXiv [here](https://arxiv.org/pdf/2103.09982).
 
 This project was a huge effort. It wouldn't have been possible without all the paper authors.
 * [Peyman Tavallali](https://www.linkedin.com/in/peyman-tavallali-a4916159/)
